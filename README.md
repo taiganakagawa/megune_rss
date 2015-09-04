@@ -3,3 +3,6 @@
 
 参考サイトさま
 http://shgam.hatenadiary.jp/entry/2013/08/25/160937
+
+herokuにデプるとこんな感じ
+megne-rss.herokuapp.com
